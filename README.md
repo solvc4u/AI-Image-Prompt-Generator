@@ -1,19 +1,19 @@
-# AI-Image-PromptGenerator (archived)
+# AI-Image-Prompt-Generator
 
 **I lost the dopamine to keep this up a year ago. I'm able to pick it up again now, but I'm not sure it's worth doing after over a year of new tools. In any case, if anyone can find some benefit from this old code and prompt tags, I encourage doing so.**
 
 PromptGen is a flexible UI script to help create and expand on prompts for generative AI art models, such as Stable Diffusion and MidJourney. Get inspired, and create. Multi-platform, and completely independent. 
 
-Acquire the latest version by git cloning the repository, or [download directly](https://downgit.evecalm.com/#/home?url=https://github.com/526christian/AI-Image-PromptGenerator). For additional info and guides, see the [wiki pages](https://github.com/526christian/AI-Image-PromptGenerator/wiki). Also see the [changelog](https://github.com/526christian/AI-Image-PromptGenerator/blob/main/CHANGELOG.md) to see what updates have been made to help know when to re-acquire files.
+Acquire the latest version by git cloning the repository, or [download directly](https://downgit.evecalm.com/#/home?url=https://github.com/526christian/AI-Image-PromptGenerator). For additional info and guides, see the [wiki pages](https://github.com/solvc4u/AI-Image-Prompt-Generator/wiki). Also see the [changelog](https://github.com/solvc4u/AI-Image-Prompt-Generator/blob/main/CHANGELOG.md) to see what updates have been made to help know when to re-acquire files.
 
 ## Features
 
 ### Keyword-based system with configurable templates
 ![Peek 2023-01-28 05-09](https://user-images.githubusercontent.com/122599135/215260744-5788b9fc-0265-40a4-b783-0d8cac4d7ed3.gif)
 
-Input bracketed [names of lists in the phrase dictionary](https://github.com/526christian/AI-Image-PromptGenerator/wiki/Phrase-keywords-and-structure) to get a random selection, and use the special keywords [listadj], [liststy], and [listqual] to get a list of random visual adjectives, styles, and image quality tokens. Fill in random phrases to add some flavor to your prompts, or come up with new ones entirely.
+Input bracketed [names of lists in the phrase dictionary](https://github.com/solvc4u/AI-Image-Prompt-Generator/wiki/Phrase-keywords-and-structure) to get a random selection, and use the special keywords [listadj], [liststy], and [listqual] to get a list of random visual adjectives, styles, and image quality tokens. Fill in random phrases to add some flavor to your prompts, or come up with new ones entirely.
 
-Want your own keywords and lists? [It's super easy, barely an inconvenience.](https://github.com/526christian/AI-Image-PromptGenerator/wiki/How-to:-Add,-remove,-or-change-phrases)
+Want your own keywords and lists? [It's super easy, barely an inconvenience.](https://github.com/solvc4u/AI-Image-Prompt-Generator/wiki/How-to:-Add,-remove,-or-change-phrases)
 
 Use the sliders to instantly change the amount of random phrases picked from [listadj], [liststy], and [listqual] for your needs and to adjust to how different models respond.
 
@@ -102,11 +102,4 @@ Here are examples of images generated using prompts generated from the provided 
 
 `floral rowboat in the Caribbean Sea, magnificent, ominous, breathtaking, terrifying, cyberpunk, digital painting, sun rays, color page, realistic, HQ, professional, raytracing`
 
-`Model: Elldreth's Stolen Dreams`
-
-## Contributors and credits
-
-Many thanks to:
-
-* junglerally, for being instrumental in brainstorming new ideas and contributing new features, such as the groundwork for the UI that helped move this project along much faster.
-* javi22020, whose [prompt generator](https://github.com/javi22020/Prompt-Generator) was the base for the original iteration of this script. We wouldn't be here without that inspiration base.
+`Model: Solvc4u's Stolen Dreams`
